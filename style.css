@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+  margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Roboto';
+}
+.container{
+display: flex;
+
+}
+
+body{
+  background-color:#9C5AC5;
+  color: white;
+}
+.title{
+margin-left: 830px;
+color: black;
+padding: 30px;
+font-size: 30px;
+margin-top: 80px;
+ }
+.box1{
+border: 3px solid #CDB4FF;
+width: 400px;
+height: 400px;
+padding: 10px;
+margin-left: 20px;
+}
+.h1{
+  color: black;
+  font-size: 30px;
+  padding: 10px;
+  margin-left: 140px;
+
+}
+
+.box2{
+  border: 3px solid #CDB4FF;
+  width: 400px;
+  height: 400px;
+  padding: 10px;
+  margin-left: 20px;
+  }
+  .h2{
+    color: black;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 30px;
+  }
+
+  .box3{
+    border: 3px solid #CDB4FF;
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin-left: 20px;
+    }
+    .h3{
+      color: black;
+      font-size: 30px;
+      padding: 10px;
+      margin-left: 75px;
+    
+    }
+    
+    .box4{
+      border: 3px solid #CDB4FF;
+      width: 400px;
+      height: 400px;
+      padding: 10px;
+      margin-left: 20px;
+      }
+      .h4{
+        color: black;
+        font-size:30px;
+        padding: 10px;
+        margin-left: 50px;
+      
+      }
+      .flex{
+        display: flex;
+        margin-left: 30px;
+        gap:50px;
+        margin-top: 80px;
+
+      }
+      .para1,
+      .para2,
+      .para3,
+      .para4{
+        font-size: 30px;  
+      }
+      a{
+        text-decoration: none;
+        font-size: large;
+        font: bold;
+        color: white;
+        }
+        li{
+        list-style-type: none;
+        padding: 15px;
+      
+      }
+        ul{
+        display: flex;
+        justify-content: end;
+        margin-right: 17px;
+        }
+        nav{
+        background-color:#7d4299;
+        padding: 5px;
+        }
+        .a:hover{
+          color: white;
+          text-decoration: 2px #CDB4FF underline;
+          }
+          .b:hover{
+          color: white;
+          text-decoration: 2px #CDB4FF underline;
+          }
+          .c:hover{
+          color: white;
+          text-decoration: 2px #CDB4FF underline;
+          }
+          .d:hover{
+          color: white;
+          text-decoration: 2px #CDB4FF underline;
+          }
+          .e:hover{
+              color: white;
+              text-decoration: 2px #CDB4FF underline;
+          }
+        
+        .name{
+        color:whitesmoke;
+        
+        }
+      
+        
